@@ -55,4 +55,4 @@ Developing practical projects with Java while progressing toward building comple
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/brunoarial/)  
-[Email](mailto:brunoarial@gmail.com)
+[Email](brunoarial@gmail.com)
