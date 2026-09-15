@@ -11,10 +11,10 @@ My goal is to continuously improve my technical skills by developing practical p
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,mysql,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,idea,vscode" />
 </p>
 
-Java • C • SQL • MySQL • Git • GitHub
+Java • C • Python • SQL • MySQL • Git • GitHub
 
 ---
 
