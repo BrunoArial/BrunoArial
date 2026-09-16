@@ -1,63 +1,113 @@
 # Bruno Arial Ramos
 
-Computer Engineering student focused on Back-End Development.
+Computer Engineering student focused on Back-End Development and the Java ecosystem.
 
-I am currently strengthening my foundations in Java, Object-Oriented Programming and relational databases, while progressing toward the Spring ecosystem and the development of REST APIs.
+I am currently strengthening my foundations in Java, Object-Oriented Programming and relational databases, while progressing toward Spring Boot, REST APIs and software architecture.
 
-My goal is to build a strong foundation in software engineering through practical projects and continuous study of how back-end systems are designed, developed and maintained.
+Alongside my main focus on Java Back-End development, I have worked on projects involving web development, artificial intelligence, API integration and asynchronous systems.
 
 ---
 
-## Technologies
+## Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,git,github,idea,vscode" />
-</p>
+**Languages**  
+Java • Python • JavaScript • C • SQL • T-SQL
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+**Web Development**  
+HTML • CSS • Vanilla JavaScript
 
-**Java • C • Python • SQL • T-SQL • Microsoft SQL Server • Git • GitHub**
+**Back-End & APIs**  
+Node.js • REST APIs • HTTP • Serverless Functions • External API Integration
+
+**Databases**  
+Microsoft SQL Server • Relational Databases
+
+**Artificial Intelligence**  
+LLM API Integration • Multi-Agent Systems • Groq API • Google Gemini API
+
+**Tools & Platforms**  
+Git • GitHub • Vercel • IntelliJ IDEA • VS Code
+
+---
+
+## Technical Experience
+
+Through personal and academic projects, I have worked with:
+
+- Object-Oriented Programming with Java
+- Domain modeling and business rules
+- Asynchronous programming with Python
+- Pub/Sub and multi-agent architectures
+- Integration with Large Language Model APIs
+- Integration with external REST APIs
+- Serverless back-end functions with Node.js
+- SQL and relational database concepts
+- Browser storage with localStorage
+- HTML5 Canvas and SVG
+- Responsive interfaces with CSS Grid and Flexbox
+- Version control with Git and GitHub
 
 ---
 
 ## Currently Studying
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
-</p>
-
-* Java Back-End Development
-* Spring Boot
-* REST APIs
-* HTTP
-* Maven
-* JUnit
-* Relational Databases
-* Software Architecture
+- Java Back-End Development
+- Spring Boot
+- REST APIs
+- HTTP
+- Maven
+- JUnit
+- Relational Databases
+- Software Architecture
 
 ---
 
 ## Areas of Interest
 
-* Back-End Development
-* Software Engineering
-* REST APIs
-* Relational Databases
-* Software Architecture
-* Distributed Systems
-* Artificial Intelligence
+- Back-End Development
+- Software Engineering
+- REST APIs
+- Relational Databases
+- Software Architecture
+- Distributed Systems
+- Artificial Intelligence
+
+---
+
+## Projects
+
+### VALORIZE
+
+Full-stack financial dashboard focused on financial management, external API integration and artificial intelligence.
+
+Built with Vanilla JavaScript, HTML and CSS, with serverless Node.js functions for secure communication with external services and AI APIs.
+
+**Technologies:** JavaScript • HTML • CSS • Node.js • Serverless • REST APIs • AI APIs • Vercel
+
+### PAPINHO
+
+Multi-agent AI orchestration system developed in Python. Multiple LLM agents communicate asynchronously through a shared message bus and collaborate to analyze problems and produce structured solutions.
+
+**Technologies:** Python • asyncio • LLM APIs • Groq • Gemini • Unit Testing
+
+### Order Management System
+
+Java project focused on strengthening core language fundamentals, Object-Oriented Programming, domain modeling and business rules before progressing to frameworks such as Spring Boot.
+
+**Technologies:** Java • OOP • BigDecimal • Exception Handling
 
 ---
 
 ## Current Focus
 
-Developing practical projects with Java and strengthening my knowledge of Object-Oriented Programming, SQL and back-end fundamentals while progressing toward building complete applications with Spring Boot and REST APIs.
+My current priority is Java Back-End Development.
+
+I am developing practical projects to strengthen my knowledge of Java, Object-Oriented Programming, databases and software engineering while progressing toward building complete back-end applications with Spring Boot and REST APIs.
 
 ---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/brunoarial/)
-[Email](https://mail.google.com/mail/?view=cm&fs=1&to=brunoarial@gmail.com)
+[LinkedIn](SEU_LINKEDIN)
+
+[Email](SEU_LINK_DO_EMAIL)
