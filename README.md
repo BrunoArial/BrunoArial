@@ -1,113 +1,75 @@
 # Bruno Arial Ramos
 
-Computer Engineering student focused on Back-End Development and the Java ecosystem.
+Computer Engineering student at FACENS, focused on Java Back-End Development.
 
-I am currently strengthening my foundations in Java, Object-Oriented Programming and relational databases, while progressing toward Spring Boot, REST APIs and software architecture.
+I am building a practical foundation in object-oriented programming, business rules, automated testing and relational databases. My current Java project brings these concepts together in a console application built with Maven and tested with JUnit.
 
-Alongside my main focus on Java Back-End development, I have worked on projects involving web development, artificial intelligence, API integration and asynchronous systems.
+My next learning stage is HTTP, REST API development, Spring Boot and database persistence. I am working toward my first opportunity as a Junior Java Back-End Developer.
 
----
+## Featured Projects
 
-## Technologies & Tools
+### [Order Management System](https://github.com/BrunoArial/OrderManagementSystem)
 
-**Languages**  
-Java • Python • JavaScript • C • SQL • T-SQL
+Java console application developed to consolidate core language fundamentals through an order management domain.
 
-**Web Development**  
-HTML • CSS • Vanilla JavaScript
+- Models customers, products, order items and order states.
+- Implements stock updates when adding items, removing items and cancelling orders.
+- Validates order operations and handles invalid user input.
+- Uses BigDecimal for monetary calculations.
+- Includes eight JUnit tests covering stock operations and order rules.
+- Uses Maven for dependency management, compilation, testing and packaging.
+- Documents business rules, project structure and execution instructions.
 
-**Back-End & APIs**  
-Node.js • REST APIs • HTTP • Serverless Functions • External API Integration
+**Technologies:** Java 25 · Maven · JUnit 5
 
-**Databases**  
-Microsoft SQL Server • Relational Databases
+### [VALORIZE](https://github.com/BrunoArial/VALORIZE)
 
-**Artificial Intelligence**  
-LLM API Integration • Multi-Agent Systems • Groq API • Google Gemini API
+Financial dashboard combining a browser-based interface, local data storage and external API integrations.
 
-**Tools & Platforms**  
-Git • GitHub • Vercel • IntelliJ IDEA • VS Code
+- Provides cash flow, fixed-income and cryptocurrency views.
+- Stores portfolio data locally using localStorage.
+- Integrates cryptocurrency market data from CoinGecko.
+- Includes an AI chat through a Node.js serverless function, with the API key kept on the server.
+- Renders charts with Canvas and SVG.
 
----
+**Technologies:** JavaScript · HTML · CSS · Node.js · Vercel · Groq API
 
-## Technical Experience
+### [PAPINHO](https://github.com/BrunoArial/PAPINHO)
 
-Through personal and academic projects, I have worked with:
+Python application that coordinates conversations between multiple LLM agents through an asynchronous message bus.
 
-- Object-Oriented Programming with Java
-- Domain modeling and business rules
-- Asynchronous programming with Python
-- Pub/Sub and multi-agent architectures
-- Integration with Large Language Model APIs
-- Integration with external REST APIs
-- Serverless back-end functions with Node.js
-- SQL and relational database concepts
-- Browser storage with localStorage
-- HTML5 Canvas and SVG
-- Responsive interfaces with CSS Grid and Flexbox
-- Version control with Git and GitHub
+- Uses asyncio for agent execution and message handling.
+- Implements an in-memory publish/subscribe message bus.
+- Separates agent behavior, message routing and recovery logic.
+- Integrates Groq and Google Gemini APIs.
+- Includes timeout handling and bounded recovery mechanisms.
 
----
+**Technologies:** Python · asyncio · Groq API · Google Gemini API
 
-## Currently Studying
+## Technical Background
 
-- Java Back-End Development
+**Java development**  
+Object-oriented programming, domain modeling, collections, enums, exception handling and monetary calculations with BigDecimal.
+
+**Build and testing**  
+Maven, JUnit 5, assertions and tests for business rules and exceptions.
+
+**Additional project experience**  
+Python, asynchronous programming, JavaScript, HTML, CSS, Node.js serverless functions and external API integration.
+
+**Academic studies**  
+C, SQL, T-SQL and relational database concepts with Microsoft SQL Server.
+
+**Tools**  
+Git, GitHub, IntelliJ IDEA and Visual Studio Code.
+
+## Learning Focus
+
+- HTTP and REST API design
 - Spring Boot
-- REST APIs
-- HTTP
-- Maven
-- JUnit
-- Relational Databases
-- Software Architecture
-
----
-
-## Areas of Interest
-
-- Back-End Development
-- Software Engineering
-- REST APIs
-- Relational Databases
-- Software Architecture
-- Distributed Systems
-- Artificial Intelligence
-
----
-
-## Projects
-
-### VALORIZE
-
-Full-stack financial dashboard focused on financial management, external API integration and artificial intelligence.
-
-Built with Vanilla JavaScript, HTML and CSS, with serverless Node.js functions for secure communication with external services and AI APIs.
-
-**Technologies:** JavaScript • HTML • CSS • Node.js • Serverless • REST APIs • AI APIs • Vercel
-
-### PAPINHO
-
-Multi-agent AI orchestration system developed in Python. Multiple LLM agents communicate asynchronously through a shared message bus and collaborate to analyze problems and produce structured solutions.
-
-**Technologies:** Python • asyncio • LLM APIs • Groq • Gemini • Unit Testing
-
-### Order Management System
-
-Java project focused on strengthening core language fundamentals, Object-Oriented Programming, domain modeling and business rules before progressing to frameworks such as Spring Boot.
-
-**Technologies:** Java • OOP • BigDecimal • Exception Handling
-
----
-
-## Current Focus
-
-My current priority is Java Back-End Development.
-
-I am developing practical projects to strengthen my knowledge of Java, Object-Oriented Programming, databases and software engineering while progressing toward building complete back-end applications with Spring Boot and REST APIs.
-
----
+- Relational database integration and persistence
+- Automated testing and maintainable Java code
 
 ## Contact
 
-[LinkedIn](SEU_LINKEDIN)
-
-[Email](SEU_LINK_DO_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/brunoarial/) · [Email](mailto:brunoarial@gmail.com)
