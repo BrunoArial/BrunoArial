@@ -2,73 +2,63 @@
 
 Computer Engineering student at FACENS, focused on Java Back-End Development.
 
-I am building a practical foundation in object-oriented programming, business rules, automated testing and relational databases. My current Java project brings these concepts together in a console application built with Maven and tested with JUnit.
+I build study projects to practice object-oriented programming, REST APIs, database persistence and automated testing. My Java projects include a Spring Boot product catalog backed by PostgreSQL and a console application for order and stock management.
 
-My next learning stage is HTTP, REST API development, Spring Boot and database persistence. I am working toward my first opportunity as a Junior Java Back-End Developer.
+I am seeking my first opportunity as a Junior Java Back-End Developer.
 
-## Featured Projects
+## Main Stack
+
+Java · Spring Boot · Spring Web MVC · Spring Data JPA · Hibernate · PostgreSQL · Maven · JUnit · Mockito · MockMvc · Git
+
+## Featured Java Projects
+
+### [Catálogo API](https://github.com/BrunoArial/catalogo-api)
+
+Educational REST API for product management, with PostgreSQL persistence and documented setup instructions.
+
+- Implements product creation, listing, lookup, update and deletion.
+- Separates HTTP handling, application operations and data access into controller, service and repository classes.
+- Uses request and response DTOs, Jakarta Validation and centralized handling of validation and resource-not-found errors.
+- Persists products through Spring Data JPA and uses BigDecimal for prices.
+- Includes unit tests with Mockito, HTTP endpoint tests with MockMvc and an application context test configured with PostgreSQL.
+- Provides Maven Wrapper, endpoint examples and instructions for running tests and building the application.
+
+**Technologies:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Maven · JUnit · Mockito · MockMvc
 
 ### [Order Management System](https://github.com/BrunoArial/OrderManagementSystem)
 
-Java console application developed to consolidate core language fundamentals through an order management domain.
+Java console application developed to consolidate language fundamentals and object-oriented domain modeling.
 
 - Models customers, products, order items and order states.
-- Implements stock updates when adding items, removing items and cancelling orders.
-- Validates order operations and handles invalid user input.
-- Uses BigDecimal for monetary calculations.
+- Enforces rules for adding and removing items, confirming orders and cancelling orders.
+- Updates stock when items are added or removed and restores it when an order is cancelled.
+- Calculates subtotals and order totals with BigDecimal.
 - Includes eight JUnit tests covering stock operations and order rules.
-- Uses Maven for dependency management, compilation, testing and packaging.
-- Documents business rules, project structure and execution instructions.
+- Uses Maven for compilation, dependency management, testing and packaging.
 
-**Technologies:** Java 25 · Maven · JUnit 5
+**Technologies:** Java · Maven · JUnit 5
 
-### [VALORIZE](https://github.com/BrunoArial/VALORIZE)
+## Additional Projects
 
-Financial dashboard combining a browser-based interface, local data storage and external API integrations.
-
-- Provides cash flow, fixed-income and cryptocurrency views.
-- Stores portfolio data locally using localStorage.
-- Integrates cryptocurrency market data from CoinGecko.
-- Includes an AI chat through a Node.js serverless function, with the API key kept on the server.
-- Renders charts with Canvas and SVG.
-
-**Technologies:** JavaScript · HTML · CSS · Node.js · Vercel · Groq API
-
-### [PAPINHO](https://github.com/BrunoArial/PAPINHO)
-
-Python application that coordinates conversations between multiple LLM agents through an asynchronous message bus.
-
-- Uses asyncio for agent execution and message handling.
-- Implements an in-memory publish/subscribe message bus.
-- Separates agent behavior, message routing and recovery logic.
-- Integrates Groq and Google Gemini APIs.
-- Includes timeout handling and bounded recovery mechanisms.
-
-**Technologies:** Python · asyncio · Groq API · Google Gemini API
+- **[UrbanEye](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity)** — Academic team project for urban issue reporting. I proposed AI-assisted image triage and application improvements through [pull request #1](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity/pull/1).
+- **[VALORIZE](https://github.com/BrunoArial/VALORIZE)** — Financial dashboard built with JavaScript, HTML and CSS, using localStorage, external data APIs and a Node.js serverless endpoint for a Groq-powered assistant.
+- **[PAPINHO](https://github.com/BrunoArial/PAPINHO)** — Experimental Python application that coordinates LLM agents with asyncio, an in-memory message bus and integrations with Groq and Google Gemini.
 
 ## Technical Background
 
-**Java development**  
-Object-oriented programming, domain modeling, collections, enums, exception handling and monetary calculations with BigDecimal.
+**Java fundamentals:** Object-oriented programming, collections, enums, exception handling, domain rules and monetary calculations with BigDecimal.
 
-**Build and testing**  
-Maven, JUnit 5, assertions and tests for business rules and exceptions.
+**Additional project experience:** Python, asyncio, JavaScript, HTML, CSS, Node.js serverless functions and external API integration.
 
-**Additional project experience**  
-Python, asynchronous programming, JavaScript, HTML, CSS, Node.js serverless functions and external API integration.
+**Academic studies:** C, SQL, T-SQL and relational database concepts with Microsoft SQL Server.
 
-**Academic studies**  
-C, SQL, T-SQL and relational database concepts with Microsoft SQL Server.
+**Tools:** Git, GitHub, IntelliJ IDEA and Visual Studio Code.
 
-**Tools**  
-Git, GitHub, IntelliJ IDEA and Visual Studio Code.
+## Current Focus
 
-## Learning Focus
-
-- HTTP and REST API design
-- Spring Boot
-- Relational database integration and persistence
-- Automated testing and maintainable Java code
+- Deepening my understanding of Spring Boot, JPA and relational data modeling.
+- Strengthening automated tests and database integration.
+- Improving code organization, documentation and reproducible project setup.
 
 ## Contact
 
