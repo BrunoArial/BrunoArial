@@ -1,65 +1,72 @@
 # Bruno Arial Ramos
 
-Computer Engineering student at FACENS, focused on Java Back-End Development.
+**Java Back-End Development · Spring Boot · REST APIs**
 
-I build study projects to practice object-oriented programming, REST APIs, database persistence and automated testing. My Java projects include a Spring Boot product catalog backed by PostgreSQL and a console application for order and stock management.
+Engineering student at FACENS, building projects to turn software fundamentals into working applications. My main focus is Java back-end development: domain modeling, REST APIs, relational databases and automated testing.
 
-I am seeking my first opportunity as a Junior Java Back-End Developer.
+I also explore AI integrations and agent workflows through personal and academic projects.
 
-## Main Stack
+**Seeking my first opportunity in Java back-end development — internship or junior role.**
 
-Java · Spring Boot · Spring Web MVC · Spring Data JPA · Hibernate · PostgreSQL · Maven · JUnit · Mockito · MockMvc · Git
+[LinkedIn](https://www.linkedin.com/in/brunoarial/) · [Email](mailto:brunoarial@gmail.com)
+
+## Core Technologies
+
+| Area | Technologies and concepts practiced |
+| --- | --- |
+| Back-end | Java, Spring Boot, Spring Web MVC, REST APIs, Jakarta Validation |
+| Persistence | Spring Data JPA, Hibernate, PostgreSQL, SQL |
+| Testing | JUnit, Mockito, MockMvc |
+| Development | Maven, Git, GitHub, IntelliJ IDEA, Visual Studio Code |
+| Additional project experience | Python, asyncio, JavaScript, TypeScript, React, HTML, CSS, Node.js, LLM APIs |
 
 ## Featured Java Projects
 
 ### [Catálogo API](https://github.com/BrunoArial/catalogo-api)
 
-Educational REST API for product management, with PostgreSQL persistence and documented setup instructions.
+REST API for product management, built to practice the full path from HTTP requests to PostgreSQL persistence.
 
-- Implements product creation, listing, lookup, update and deletion.
-- Separates HTTP handling, application operations and data access into controller, service and repository classes.
-- Uses request and response DTOs, Jakarta Validation and centralized handling of validation and resource-not-found errors.
-- Persists products through Spring Data JPA and uses BigDecimal for prices.
-- Includes unit tests with Mockito, HTTP endpoint tests with MockMvc and an application context test configured with PostgreSQL.
-- Provides Maven Wrapper, endpoint examples and instructions for running tests and building the application.
+- Product creation, listing, lookup, update and deletion.
+- Controller, service and repository layers, with request/response DTOs.
+- Input validation and centralized JSON responses for validation and resource-not-found errors.
+- Monetary values represented with `BigDecimal`.
+- Service tests with Mockito and HTTP endpoint tests with MockMvc; a separate application context test uses PostgreSQL.
+- Documented setup, endpoint examples and commands for testing and packaging.
 
-**Technologies:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Maven · JUnit · Mockito · MockMvc
+**Stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Maven · JUnit · Mockito · MockMvc
 
 ### [Order Management System](https://github.com/BrunoArial/OrderManagementSystem)
 
-Java console application developed to consolidate language fundamentals and object-oriented domain modeling.
+Console application focused on object-oriented design and business rules, built with Java and Maven.
 
 - Models customers, products, order items and order states.
-- Enforces rules for adding and removing items, confirming orders and cancelling orders.
-- Updates stock when items are added or removed and restores it when an order is cancelled.
-- Calculates subtotals and order totals with BigDecimal.
-- Includes eight JUnit tests covering stock operations and order rules.
-- Uses Maven for compilation, dependency management, testing and packaging.
+- Validates stock availability and controls which operations each order state allows.
+- Updates stock when items are added or removed, and restores it on cancellation.
+- Calculates subtotals and totals with `BigDecimal`.
+- Includes JUnit tests for stock operations and order behavior.
 
-**Technologies:** Java · Maven · JUnit 5
+**Stack:** Java · Maven · JUnit 5
 
-## Additional Projects
+## AI, Web & Collaborative Projects
 
-- **[UrbanEye](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity)** — Academic team project for urban issue reporting. I proposed AI-assisted image triage and application improvements through [pull request #1](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity/pull/1).
-- **[VALORIZE](https://github.com/BrunoArial/VALORIZE)** — Financial dashboard built with JavaScript, HTML and CSS, using localStorage, external data APIs and a Node.js serverless endpoint for a Groq-powered assistant.
-- **[PAPINHO](https://github.com/BrunoArial/PAPINHO)** — Experimental Python application that coordinates LLM agents with asyncio, an in-memory message bus and integrations with Groq and Google Gemini.
+| Project | What I worked on |
+| --- | --- |
+| [PAPINHO](https://github.com/BrunoArial/PAPINHO) | Experimental Python application that coordinates LLM agents through `asyncio` and an in-memory message bus. Includes routing, bounded recovery, conversation modes, a terminal interface and automated tests. |
+| [UrbanEye](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity) | Academic team project for urban issue reporting. My [merged contribution](https://github.com/yasminsouzasantos-crypto/urbaneye-smartcity/pull/1) added optional AI image triage and application stability improvements, with automated tests. The prototype uses React, TypeScript, Supabase Edge Functions and Gemini. |
+| [VALORIZE](https://github.com/BrunoArial/VALORIZE) | Financial dashboard with cash-flow tracking, investment views, browser-based storage and external API integrations. Built with JavaScript, HTML and CSS, plus a Node.js serverless endpoint for an AI assistant. |
+| [Obsidian Note Connections](https://github.com/BrunoArial/obsidian-note-connections) | Reusable command for Copilot for Obsidian that searches existing notes and adds verified wikilinks to a target note. Includes setup instructions, an illustrative example and documented validation limits. |
 
-## Technical Background
+## What I Am Developing Further
 
-**Java fundamentals:** Object-oriented programming, collections, enums, exception handling, domain rules and monetary calculations with BigDecimal.
+- Spring Boot, JPA and relational data modeling.
+- Automated testing of business rules, HTTP endpoints and database integration.
+- Clear separation of responsibilities and reproducible project setup.
+- AI integrations with explicit boundaries, error handling and human review.
 
-**Additional project experience:** Python, asyncio, JavaScript, HTML, CSS, Node.js serverless functions and external API integration.
+My repositories document the scope, setup and limitations of each project as I continue learning.
 
-**Academic studies:** C, SQL, T-SQL and relational database concepts with Microsoft SQL Server.
+## Let's Connect
 
-**Tools:** Git, GitHub, IntelliJ IDEA and Visual Studio Code.
+I'm interested in opportunities where I can contribute to a team, learn through code review and grow as a Java back-end developer.
 
-## Current Focus
-
-- Deepening my understanding of Spring Boot, JPA and relational data modeling.
-- Strengthening automated tests and database integration.
-- Improving code organization, documentation and reproducible project setup.
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/brunoarial/) · [Email](mailto:brunoarial@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/brunoarial/) · [brunoarial@gmail.com](mailto:brunoarial@gmail.com)
